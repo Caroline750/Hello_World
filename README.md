@@ -1,7 +1,7 @@
 # **Table of Content**
 - [Project Title](https://github.com/Caroline750/Hello_World/blob/readme/README.md#project-title)
 - [Description](https://github.com/Caroline750/Hello_World/blob/readme/README.md#description)
-- [How to Run Program](https://github.com/Caroline750/Hello_World/blob/readme/README.md#description)
+- [How to Run Program](https://github.com/Caroline750/Hello_World/blob/readme/README.md#how-to-run-program)
 - [Files Used](https://github.com/Caroline750/Hello_World/blob/readme/README.md#description)
 - [Additional Documentation](https://github.com/Caroline750/Hello_World/blob/readme/README.md#description)
 - Versioning
